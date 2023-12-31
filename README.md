@@ -38,9 +38,6 @@ In addition to working with the backend sending information to the database, I a
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
 * Xampp
