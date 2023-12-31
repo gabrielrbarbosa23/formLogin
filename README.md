@@ -28,9 +28,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<video controls>
-    <source src="./img/video.mp4" type="video/mp4">
-</video>
+
+
+https://github.com/gabrielrbarbosa23/formLogin/assets/110126012/aa5664c2-b7b6-424b-b531-a1db48a83e66
+
+
 
 I did this project to improve my knowledge of PHP, SQL and CSS.
 
